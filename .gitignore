@@ -1,0 +1,13 @@
+# MATLAB
+*.asv
+*.m~
+*.mex*
+slprj/
+octave-workspace
+
+# Full datasets (not distributed)
+training2017/
+REFERENCE.csv
+
+# OS
+.DS_Store
